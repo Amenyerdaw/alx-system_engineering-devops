@@ -1,0 +1,16 @@
+#!/bin/bash
+echo Hello, World
+
+ls
+:x
+root@cfc8b55032df:~/alx-system_engineering-devops/0x02-shell_redirections#
+
+
+
+
+
+clear
+
+
+
+ssh cfc8b55032df@cfc8b55032df.397edd51.alx-cod.online
